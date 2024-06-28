@@ -19,7 +19,7 @@ To get started, simply clone this repository and enter your video ID in the conf
 
 Looking to get even more views or just the software? Visit our shop to purchase them at competitive prices.
 
-[Visit our shop](https://shoppy.gg/tiktok](https://tiktok.sellsn.io/)
+[Visit our shop](https://tiktok.sellsn.io)
 
 ## Disclaimer
 
