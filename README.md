@@ -13,7 +13,7 @@ Welcome to the **ViewBot** repository! This repository provides a simple yet pow
 
 ## Usage
 
-To get started, simply clone this repository and enter your video ID in the configuration file.
+To get started, enter your video ID in the configuration file.
 
 ## Purchase More Views / The Software
 
